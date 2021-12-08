@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-cryptocoin/static/js/main.bcfda3be.chunk.js",
+    "main.js.map": "/react-cryptocoin/static/js/main.bcfda3be.chunk.js.map",
+    "runtime-main.js": "/react-cryptocoin/static/js/runtime-main.69d300d2.js",
+    "runtime-main.js.map": "/react-cryptocoin/static/js/runtime-main.69d300d2.js.map",
+    "static/js/2.99470335.chunk.js": "/react-cryptocoin/static/js/2.99470335.chunk.js",
+    "static/js/2.99470335.chunk.js.map": "/react-cryptocoin/static/js/2.99470335.chunk.js.map",
+    "index.html": "/react-cryptocoin/index.html",
+    "static/js/2.99470335.chunk.js.LICENSE.txt": "/react-cryptocoin/static/js/2.99470335.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69d300d2.js",
+    "static/js/2.99470335.chunk.js",
+    "static/js/main.bcfda3be.chunk.js"
+  ]
+}
